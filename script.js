@@ -21,8 +21,8 @@ function search() {
 var links = new Array();
 links[0] = "https://birdiesyt2.github.io/levelrepo/level/1";
 links[1] = "https://birdiesyt2.github.io/levelrepo/level/2";
-links[1] = "https://birdiesyt2.github.io/levelrepo/level/3";
-links[1] = "https://birdiesyt2.github.io/levelrepo/level/4";
+links[2] = "https://birdiesyt2.github.io/levelrepo/level/3";
+links[3] = "https://birdiesyt2.github.io/levelrepo/level/4";
 
 function openLink() {
   // Chooses a random link:
@@ -32,3 +32,4 @@ function openLink() {
   return false;
 
 }
+
